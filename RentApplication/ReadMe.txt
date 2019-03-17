@@ -1,5 +1,6 @@
 Zadanie1:
-Stwórz sytem do zarzadzania ofertami sprzedania/wynajecia nieruchomosci dla jednego z kontrahentów.
+Stwórz sytem do zarzadzania ofertami sprzedania/wynajecia nieruchomosci dla jednego z 
+kontrahentów.
 Aplikacja powinna miec takie funkcjonalnosci jak: dodawanie, usuwanie oraz wyszukiwanie ofert. 
 Uzytkownik powinien miec mozliwosc wyszukiwania i sortowania ofert po: miejscowosci, dzielnicy, 
 liczbie pokoi i cenie.
